@@ -31,3 +31,8 @@
 
 <img src="foto/edit.png" />
 <br>
+
+## Halaman Detail
+<img src="foto/detail.png" />
+<br>
+
